@@ -1,25 +1,24 @@
 [
-  {
-    "id" : 1,
-    "name" : "김 일번",
-    "age" : 50,
-    "personalColor" : "blue"
-  },
-  {
-    "id" : 2,
-    "name" : "김 이번",
-    "age" : 40
-  },
-  {
-    "id" : 3,
-    "name" : "김 삼번",
-    "age" : 30,
-    "personalColor" : "purple"
-  },
-  {
-    "id" : 4,
-    "name" : "김 사번",
-    "age" : 35,
-    "personalColor" : "yellow"
-  }
+	{"id":1,
+	"name":"김 태리",
+	"age":24
+	},
+	{"id":2,
+	"name":"김 희애",
+	"age":40,
+	"personalColor":"hotpink",
+	"hobbies": ["travel"]
+	},
+	{"id":3,
+	"name":"한 가인",
+	"age":30,
+	"personalColor":"pink",
+	"hobbies": ["game", "soccer"]
+	},
+	{"id":4,
+	"name":"송 혜교",
+	"age":35,
+	"personalColor":"purple",
+	"hobbies": ["watchingMovie", "playingthePiano"]
+	}
 ]
